@@ -32,3 +32,5 @@ def modulo(num1, num2)
 def square_root(num)
   num1 = 8
   num2 = 4
+  sqrt (num1)
+  sqrt (num2)
