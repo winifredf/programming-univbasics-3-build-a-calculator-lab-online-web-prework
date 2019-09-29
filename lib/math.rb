@@ -18,13 +18,17 @@ def division(num1, num2)
 
 
 def multiplication(num1, num2)
+  num1 = 8
+  num2 = 4
+  quotient = num1 * num2
 
-end
 
 def modulo(num1, num2)
+  num1 = 8
+  num2 = 4
+  modulo = num1 % num2
 
-end
 
 def square_root(num)
-
-end
+  num1 = 8
+  num2 = 4
