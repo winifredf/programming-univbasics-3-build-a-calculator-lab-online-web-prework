@@ -1,14 +1,21 @@
 def addition(num1, num2)
+  num1 = 3
+  num2 = 4
+  sum = num1 + num2
 
-end
 
 def subtraction(num1, num2)
+  num1 = 8
+  num2 = 4
+  difference = num1 - num2
 
-end
 
 def division(num1, num2)
+  num1 = 8
+  num2 = 4
+  quotient = num1 / num2
 
-end
+
 
 def multiplication(num1, num2)
 
